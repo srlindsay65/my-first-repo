@@ -130,9 +130,9 @@ li a {
    
 /*--about styles--*/
 
-.bulldog-link {
-   text-decoration: none;
-}
+/*.bulldog-link {*/
+/*   text-decoration: none;*/
+/*}*/
 
 .about-headline {
    color: #000;
@@ -160,9 +160,9 @@ li a {
    float: right;
 }
 
-.bowl-link {
-   text-decoration: none;
-}
+/*.bowl-link {*/
+/*   text-decoration: none;*/
+/*}*/
 
 .column {
    display: inline-block;
@@ -186,9 +186,9 @@ li a {
    border: 2px solid rgba(212, 212, 212, 1);
 }
 
-.gallery-link {
-   text-decoration: none;
-}
+/*.gallery-link {*/
+/*   text-decoration: none;*/
+/*}*/
 
 .gallery {
    float: right;
